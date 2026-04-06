@@ -1,0 +1,285 @@
+Please enter the number of cities in your graph: 
+---------------------------------------------------
+Moscow, Russia is numbered as city 0
+Seoul, South Korea is numbered as city 1
+Tokyo, Japan is numbered as city 2
+Hong Kong, SAR is numbered as city 3
+London, United Kingdom is numbered as city 4
+Osaka, Japan is numbered as city 5
+Geneva, Switzerland is numbered as city 6
+Copenhagen, Denmark is numbered as city 7
+Zurich, Switzerland is numbered as city 8
+Oslo, Norway is numbered as city 9
+New York City, United States is numbered as city 10
+St. Petersburg, Russia is numbered as city 11
+Milan, Italy is numbered as city 12
+Beijing, People's Republic of China is numbered as city 13
+Istanbul, Turkey is numbered as city 14
+Paris, France is numbered as city 15
+Singapore, Singapore is numbered as city 16
+Dublin, Ireland is numbered as city 17
+Sydney, Australia is numbered as city 18
+Shanghai, People's Republic of China is numbered as city 19
+Rome, Italy is numbered as city 20
+Kiev, Ukraine is numbered as city 21
+Vienna, Austria is numbered as city 22
+Tel Aviv, Israel is numbered as city 23
+Helsinki, Finland is numbered as city 24
+Dubai, United Arab Emirates is numbered as city 25
+Douala, Cameroon is numbered as city 26
+Taipei, Taiwan is numbered as city 27
+Los Angeles, United States is numbered as city 28
+Abu Dhabi, United Arab Emirates is numbered as city 29
+Lagos, Nigeria is numbered as city 30
+Beirut, Lebanon is numbered as city 31
+Hanoi, Vietnam is numbered as city 32
+Sao Paulo, Brazil is numbered as city 33
+San Francisco, United States is numbered as city 34
+San Juan, Puerto Rico is numbered as city 35
+Stockholm, Sweden is numbered as city 36
+Ho Chi Minh City, Vietnam is numbered as city 37
+Chicago, United States is numbered as city 38
+Miami, United States is numbered as city 39
+Rio de Janeiro, Brazil is numbered as city 40
+Lusaka, Zambia is numbered as city 41
+Amsterdam, The Netherlands is numbered as city 42
+White Plains, United States is numbered as city 43
+Shenzhen, People's Republic of China is numbered as city 44
+Abidjan, Cote d'Ivoire is numbered as city 45
+Dakar, Senegal is numbered as city 46
+Toronto, Canada is numbered as city 47
+Jakarta, Indonesia is numbered as city 48
+Bratislava, Slovakia is numbered as city 49
+Prague, Czech Republic is numbered as city 50
+Vancouver, Canada is numbered as city 51
+Barcelona, Spain is numbered as city 52
+Luxembourg, Luxembourg is numbered as city 53
+Athens, Greece is numbered as city 54
+Glasgow, United Kingdom is numbered as city 55
+Frankfurt, Germany is numbered as city 56
+Amman, Jordan is numbered as city 57
+Dusseldorf, Germany is numbered as city 58
+Warsaw, Poland is numbered as city 59
+Munich, Germany is numbered as city 60
+Budapest, Hungary is numbered as city 61
+Honolulu, United States is numbered as city 62
+Mumbai, India is numbered as city 63
+Birmingham, United Kingdom is numbered as city 64
+Brussels, Belgium is numbered as city 65
+Calgary, Canada is numbered as city 66
+Berlin, Germany is numbered as city 67
+New Delhi, India is numbered as city 68
+Melbourne, Australia is numbered as city 69
+Accra, Ghana is numbered as city 70
+Houston, United States is numbered as city 71
+Hamburg, Germany is numbered as city 72
+Kuwait City, Kuwait is numbered as city 73
+Zagreb, Croatia is numbered as city 74
+Montreal, Canada is numbered as city 75
+Riga, Latvia is numbered as city 76
+Mexico City, Mexico is numbered as city 77
+Washington, United States is numbered as city 78
+Morristown, United States is numbered as city 79
+Boston, United States is numbered as city 80
+Atlanta, United States is numbered as city 81
+Manama, Bahrain is numbered as city 82
+Casablanca, Morocco is numbered as city 83
+Lisbon, Portugal is numbered as city 84
+Ottawa, Canada is numbered as city 85
+Santiago, Chile is numbered as city 86
+Lyon, France is numbered as city 87
+Guatemala City, Guatemala is numbered as city 88
+Cairo, Egypt is numbered as city 89
+Perth, Australia is numbered as city 90
+Tallinn, Estonia is numbered as city 91
+Denver, United States is numbered as city 92
+Riyadh, Saudi Arabia is numbered as city 93
+Brisbane, Australia is numbered as city 94
+Jeddah, Saudi Arabia is numbered as city 95
+Auckland, New Zealand is numbered as city 96
+Seattle, United States is numbered as city 97
+Monterrey, Mexico is numbered as city 98
+St. Louis, United States is numbered as city 99
+Wellington, New Zealand is numbered as city 100
+Ljubljana, Slovenia is numbered as city 101
+Nairobi, Kenya is numbered as city 102
+Adelaide, Australia is numbered as city 103
+Kingston, Jamaica is numbered as city 104
+Cleveland, United States is numbered as city 105
+Portland, United States is numbered as city 106
+Sofia, Bulgaria is numbered as city 107
+Pittsburgh, United States is numbered as city 108
+Kuala Lumpur, Malaysia is numbered as city 109
+Bucharest, Romania is numbered as city 110
+Vilnius, Lithuania is numbered as city 111
+Johannesburg, South Africa is numbered as city 112
+Limassol, Cyprus is numbered as city 113
+Lima, Peru is numbered as city 114
+Bandar Seri Begawan, Brunei is numbered as city 115
+Panama City, Panama is numbered as city 116
+Detroit, United States is numbered as city 117
+Leipzig, Germany is numbered as city 118
+Winston-Salem, United States is numbered as city 119
+Tehran, Iran is numbered as city 120
+Santo Domingo, Dominican Republic is numbered as city 121
+Bangkok, Thailand is numbered as city 122
+Tianjin, People's Republic of China is numbered as city 123
+Blantyre, Malawi is numbered as city 124
+Bogot, Colombia is numbered as city 125
+Dhaka, Bangladesh is numbered as city 126
+Colombo, Sri Lanka is numbered as city 127
+Tunis, Tunisia is numbered as city 128
+San Jose, Costa Rica is numbered as city 129
+Quito, Ecuador is numbered as city 130
+Caracas, Venezuela is numbered as city 131
+Chennai, India is numbered as city 132
+Montevideo, Uruguay is numbered as city 133
+Bangalore, India is numbered as city 134
+Karachi, Pakistan is numbered as city 135
+Manila, Philippines is numbered as city 136
+Buenos Aires, Argentina is numbered as city 137
+Harare, Zimbabwe is numbered as city 138
+Asuncion, Paraguay is numbered as city 139
+
+The graph generated can be represented by the following adjacent matrix : 
+-----------------------------------------------------------------------------------
+0 -> 
+1 -> 47 53 88 97 126 
+2 -> 20 85 111 
+3 -> 10 17 22 40 67 68 78 84 86 
+4 -> 70 
+5 -> 22 24 44 48 64 75 88 117 138 
+6 -> 20 21 29 49 53 63 84 101 108 
+7 -> 13 108 
+8 -> 97 131 136 
+9 -> 19 20 43 58 68 92 108 130 137 
+10 -> 7 45 48 83 104 
+11 -> 57 
+12 -> 71 77 
+13 -> 14 18 60 69 83 101 109 126 
+14 -> 2 9 22 33 102 119 
+15 -> 62 99 133 
+16 -> 5 6 12 107 
+17 -> 0 7 56 69 113 116 125 
+18 -> 8 9 44 87 125 127 134 
+19 -> 10 45 135 
+20 -> 39 54 57 63 98 117 123 
+21 -> 5 51 75 95 
+22 -> 12 29 68 73 124 126 129 
+23 -> 36 54 59 70 80 133 
+24 -> 12 70 80 112 121 134 
+25 -> 6 27 50 58 69 74 75 86 95 
+26 -> 76 
+27 -> 30 37 53 60 87 90 96 100 
+28 -> 
+29 -> 23 32 36 
+30 -> 94 
+31 -> 
+32 -> 14 16 19 87 90 100 103 
+33 -> 47 
+34 -> 61 95 
+35 -> 9 34 39 54 60 87 97 139 
+36 -> 40 65 
+37 -> 43 76 84 89 
+38 -> 48 131 
+39 -> 7 18 63 66 83 98 109 127 135 
+40 -> 3 35 36 57 91 111 137 
+41 -> 3 13 21 30 37 59 76 97 126 
+42 -> 
+43 -> 28 59 69 
+44 -> 11 13 52 91 95 111 113 122 125 
+45 -> 7 35 40 43 46 
+46 -> 64 94 95 98 119 132 
+47 -> 5 25 40 96 99 116 139 
+48 -> 21 30 32 38 59 66 85 91 103 114 
+49 -> 68 73 
+50 -> 11 53 58 60 75 103 
+51 -> 31 
+52 -> 
+53 -> 7 
+54 -> 5 12 16 25 56 101 126 
+55 -> 21 46 51 67 80 89 112 116 135 
+56 -> 30 57 99 
+57 -> 4 8 17 24 34 51 133 
+58 -> 108 
+59 -> 49 94 124 
+60 -> 3 9 19 29 36 75 86 96 108 
+61 -> 55 90 98 106 112 116 139 
+62 -> 11 22 31 63 71 102 130 
+63 -> 5 16 25 103 116 
+64 -> 
+65 -> 8 60 71 81 83 84 91 139 
+66 -> 9 18 37 41 59 
+67 -> 
+68 -> 15 29 67 82 92 124 133 138 
+69 -> 1 
+70 -> 30 64 104 132 
+71 -> 5 132 
+72 -> 1 33 48 65 75 90 94 103 107 117 
+73 -> 7 8 61 77 81 100 116 124 
+74 -> 31 61 62 118 
+75 -> 43 54 
+76 -> 46 49 51 139 
+77 -> 33 99 113 
+78 -> 44 63 77 109 
+79 -> 2 4 34 41 46 48 121 125 135 
+80 -> 10 19 57 60 62 95 112 136 
+81 -> 5 16 70 79 105 111 114 137 
+82 -> 27 38 60 
+83 -> 23 25 47 65 71 118 
+84 -> 15 30 59 85 88 108 
+85 -> 3 5 
+86 -> 46 48 114 116 120 127 
+87 -> 3 85 94 
+88 -> 11 22 36 63 79 113 124 129 130 136 
+89 -> 23 78 93 98 123 
+90 -> 66 127 
+91 -> 
+92 -> 36 52 81 96 102 105 115 
+93 -> 15 29 
+94 -> 11 19 34 40 55 111 116 121 
+95 -> 74 133 
+96 -> 8 20 58 66 100 103 104 108 125 
+97 -> 17 28 44 116 
+98 -> 33 44 58 77 
+99 -> 79 133 
+100 -> 5 27 33 48 49 56 85 109 122 130 
+101 -> 36 53 
+102 -> 6 24 44 50 59 68 74 87 89 101 
+103 -> 6 76 83 85 94 
+104 -> 0 2 110 123 133 137 
+105 -> 68 78 112 
+106 -> 2 8 36 53 57 74 81 107 133 
+107 -> 87 138 
+108 -> 2 4 30 49 77 90 107 
+109 -> 2 54 75 78 86 126 128 
+110 -> 37 59 67 
+111 -> 
+112 -> 1 62 76 99 114 135 
+113 -> 97 
+114 -> 6 8 22 52 54 99 102 
+115 -> 
+116 -> 
+117 -> 91 137 
+118 -> 7 9 23 44 52 80 82 90 
+119 -> 4 29 80 107 
+120 -> 19 23 30 104 127 
+121 -> 0 1 12 35 38 41 44 133 136 
+122 -> 
+123 -> 
+124 -> 12 32 62 84 93 115 
+125 -> 25 30 59 98 
+126 -> 3 90 91 
+127 -> 0 22 44 63 70 72 77 101 
+128 -> 17 40 95 99 108 117 
+129 -> 
+130 -> 15 30 87 116 
+131 -> 
+132 -> 12 15 17 39 64 67 95 112 
+133 -> 1 26 
+134 -> 1 25 44 46 86 99 125 
+135 -> 1 17 47 64 72 79 93 95 126 134 
+136 -> 4 7 25 31 42 71 107 120 128 
+137 -> 3 7 28 74 106 
+138 -> 10 14 27 63 67 107 117 131 
+139 -> 70 75 95 119 135 
